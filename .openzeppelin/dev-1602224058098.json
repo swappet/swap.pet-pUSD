@@ -1,0 +1,19 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "pusd/pUSD": [
+      {
+        "address": "0xd45A464a2412A2f83498d13635698a041b9dBe9b",
+        "kind": "NonProxy",
+        "bytecodeHash": "40c4af0d3077b705592a67ad0e906f6bbc4996f43d3306e765f59dce9953ee1e"
+      },
+      {
+        "address": "0x6793E8E0E8ac22d71c65c2bf82e9B142dEf9eCDb",
+        "kind": "NonProxy",
+        "bytecodeHash": "3a302a4b8203e8c7b4e0530399ca49d84ed418ad95212835cb14639f5b810084"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}

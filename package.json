@@ -1,0 +1,27 @@
+{
+  "name": "pusd",
+  "version": "1.0.0",
+  "description": "1:1 peg to USDT which is the top1 stable USD , and clear USDT centership controll in USDT ERC20 conttract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swappet/swap.pet-pUSD.git"
+  },
+  "keywords": [
+    "pUSD",
+    "USDT",
+    "USD"
+  ],
+  "author": "swap.pet@pm.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swappet/swap.pet-pUSD/issues"
+  },
+  "homepage": "https://github.com/swappet/swap.pet-pUSD#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
